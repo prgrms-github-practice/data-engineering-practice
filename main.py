@@ -8,6 +8,14 @@ def sub(num1, num2):
     print(num1-num2)
 
 
+def mul(num1, num2):
+    nums = [num1, num2]
+    print(num1*num2)
+
+
+
+
+
 # main
 if __name__=="__main__":
     add(3, 5)
