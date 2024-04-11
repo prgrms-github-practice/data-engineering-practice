@@ -3,6 +3,10 @@ def add(num1, num2):
     print(sum(nums))
 
 
+def sub(num1, num2):
+    nums = [num1, num2]
+    print(num1-num2)
+
 
 # main
 if __name__=="__main__":
