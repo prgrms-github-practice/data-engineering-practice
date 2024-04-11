@@ -1,3 +1,2 @@
-num1 = 1
-num2 = 2
-print(num1 + num2)
+nums = [1, 2]
+print(sum(nums))
